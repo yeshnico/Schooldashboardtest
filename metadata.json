@@ -1,0 +1,6 @@
+{
+  "name": "SchoolPulse HA",
+  "description": "Summarize school emails into deadlines and upcoming actions, preview your Home Assistant dashboard, and generate ready-to-deploy Google Apps Script and YAML configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
